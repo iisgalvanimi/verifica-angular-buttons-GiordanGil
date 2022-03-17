@@ -1,0 +1,12 @@
+.container{
+    background-color: gray;
+
+    padding: 20px;
+    text-align: center;
+}
+.button{
+    margin-right: 20px;
+}
+.sm-container{
+    background-color: aquamarine;
+}
